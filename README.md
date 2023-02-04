@@ -1,5 +1,5 @@
 
-<h2>Hey Fam👋❤️, I'm Oyenola Philip A 16 year old programmer <span>(Tech genius)</span></h2>
+<h2>Hey Fam👋❤️, I'm Oyenola Philip A 16 year old programmer <span>(Software Dev)</span></h2>
 <p>I am a Full stack web developer, Blockchain developer, AI Engineer and a software developer</p>
 
 
