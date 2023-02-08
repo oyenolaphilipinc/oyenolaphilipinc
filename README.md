@@ -8,7 +8,7 @@
 
 <ul>
   <li>✨ Turning ideas into real life products. </li>
-  <li>👨‍💻 I work with <strongjavascript, reactJs & NextJs</strong>.</li>
+  <li>👨‍💻 I work with <strong>Javascript, ReactJs & NextJs</strong>.</li>
   <li>🔭 I’m currently learning <strong>AI and blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and computer science</strong>.</li>
 <li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
