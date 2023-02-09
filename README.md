@@ -7,7 +7,7 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>✨ Turning ideas into real life products. </li>
+  <li>✨ Turning ideas into real life Softwares and product. </li>
   <li>👨‍💻 I work with <strong>Javascript, ReactJs & NextJs</strong>.</li>
   <li>🔭 I’m currently learning <strong>AI and blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and computer science</strong>.</li>
