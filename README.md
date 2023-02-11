@@ -1,5 +1,5 @@
 
-<h2>Hey Fam👋❤️, I'm Oyenola Philip A 16 year old programmer <span>(Software Dev)</span></h2>
+<h2>Hey Devs👋❤️, I'm Oyenola Philip A 16 year old programmer <span>(Software Dev)</span></h2>
 <p>I am a Full stack web developer, Blockchain developer, AI Engineer and a software developer</p>
 
 
@@ -9,9 +9,10 @@
 <ul>
   <li>✨ Turning ideas into real life Softwares and product. </li>
   <li>👨‍💻 I work with <strong>Javascript, ReactJs & NextJs</strong>.</li>
-  <li>🔭 I’m currently learning <strong>AI and blockchain</strong>. </li>
+  <li>🔭 I’m currently learning <strong>AI and Blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and computer science</strong>.</li>
 <li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
+  <li>👨‍💻 I am learning blockchain from Alchemy University </li>
 </ul>
 
 <h2>Connect with me</h3>
