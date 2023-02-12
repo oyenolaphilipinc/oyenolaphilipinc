@@ -10,9 +10,9 @@
   <li>✨ Turning ideas into real life Softwares and product. </li>
   <li>👨‍💻 I work with <strong>Javascript, ReactJs & NextJs</strong>.</li>
   <li>🔭 I’m currently learning <strong>AI and Blockchain</strong>. </li>
-  <li>💬 Ping me about anything <strong>on tech and computer science</strong>.</li>
+  <li>💬 Ping me about anything <strong>on tech and Computer Science in general</strong>.</li>
 <li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
-  <li>👨‍💻 I am learning blockchain from Alchemy University </li>
+  <li>👨‍💻 I am learning Blockchain from Alchemy University </li>
 </ul>
 
 <h2>Connect with me</h3>
