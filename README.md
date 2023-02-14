@@ -7,12 +7,12 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>✨ Turning ideas into real life Softwares and product. </li>
+  <li>✨ Turning ideas into real life Softwares and products. </li>
   <li>👨‍💻 I work with <strong>Javascript, ReactJs & NextJs & currently open sourcing</strong>.</li>
   <li>🔭 I’m currently learning <strong>AI and Blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and Computer Science in general</strong>.</li>
 <li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
-  <li>👨‍💻 I am learning Blockchain from Alchemy University </li>
+  <li>👨‍💻 I am learning Blockchain from Alchemy University and I am big fan of Blockchain</li>
 </ul>
 
 <h2>Connect with me</h3>
