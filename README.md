@@ -1,6 +1,6 @@
 
 <h2>Hey Devs👋❤️, I'm Oyenola Philip A 17 year old programmer</h2>
-<p>I am a Full stack web developer, Blockchain developer, AI Engineer and a software developer</p>
+<p>I am a Developer Working on Saas product</p>
 
 
 
