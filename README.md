@@ -1,6 +1,6 @@
 
 <h2>Hey Guys👋❤️, I'm Oyenola Philip A 17 year old smart Developer/ Programmer</h2>
-<p>I am a Developer Working on an AI Saas product. I am also open to building Startups</p>
+<p>I am a Developer building the next big thing. I am also open to building Startups</p>
 
 
 
