@@ -1,5 +1,5 @@
 
-<h2>Hey Guys👋❤️, I'm Oyenola Philip A 17 year old smart Programmer</h2>
+<h2>Hey Guys👋❤️, I'm Oyenola Philip A 17 year old Programmer</h2>
 <p>I am a Developer building the next big thing. I am also open to building Startups</p>
 
 
