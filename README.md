@@ -15,7 +15,7 @@
   <li>👨‍💻 I am learning Blockchain from Alchemy University and I am big phase of Blockchain. Love Netflix at my free time.</li>
 </ul>
 
-<h2>Connect with a genius</h3>
+<h2>Connect</h3>
 <p><a href="https://www.linkedin.com/in/oyenolaphilip/"><img src="https://img.shields.io/badge/-Oyenola%20Philip%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/oyenolaayomi/"><img src="https://img.shields.io/badge/-Oyenolaayomi-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
   <a href="mailto:oyenolaphilip89@gmail.com"><img src="https://img.shields.io/badge/-Oyenola%20Philip-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
