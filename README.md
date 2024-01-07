@@ -1,5 +1,5 @@
 
-<h2>Hi There👋❤️, I'm Oyenola Philip A 17 year old Programmer</h2>
+<h2>Hi There👋❤️, I'm Philip A 17 year old Programmer</h2>
 <p>I am a Software Developer and Entrepreneur building trying to figure things out. I am also open to building epic shit with code. let's connect together to change the world.</p>
 
 
