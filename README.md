@@ -8,7 +8,7 @@
 
 <ul>
   <li>✨ Building Startups with Code and also building my Entrepreneurship skills. </li>
-  <li>👨‍💻 I work with <strong>Javascript, AI, ReactJs & NextJs & currently open sourcing</strong>.</li>
+  <li>👨‍💻 I work with <strong>Javascript, AI, ReactJS & NextJS & currently open sourcing</strong>.</li>
   <li>🔭 I’m currently learning <strong>AI and Blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and Computer Science in general</strong>.</li>
 <li>🎉 Fun Fact : I share tech content on Twitter & Linkedin and I love tech more. stay tuned for more on tech</li>
