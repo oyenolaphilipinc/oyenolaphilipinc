@@ -7,7 +7,7 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>✨ Building Products with Code and also building my Entrepreneurship skills. </li>
+  <li>✨ Building Sharp Products with Code and also building my Entrepreneurship skills. </li>
   <li>👨‍💻 I work with <strong>Javascript, AI, ReactJS & NextJS & currently open sourcing</strong>.</li>
   <li>🔭 I’m currently learning <strong>AI and Blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and Computer Science in general</strong>.</li>
