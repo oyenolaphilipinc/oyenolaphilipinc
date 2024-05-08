@@ -11,7 +11,7 @@
   <li>👨‍💻 I work with <strong>Javascript, AI, ReactJS & NextJS & currently open sourcing</strong>.</li>
   <li>🔭 I’m learning <strong>AI and Blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and Computer Science in general</strong>.</li>
-<li>🎉 Fun Fact : I share tech content on Twitter & Linkedin and I love tech more. stay tuned for more on tech</li>
+<li>🎉 Fun Fact : I share tech content on Twitter & Linkedin and I love tech more. stay tuned for more on tech shit</li>
   <li>👨‍💻 I am learning Blockchain from Alchemy University and I am big phase of Blockchain. Love Netflix at my free time.</li>
 </ul>
 
