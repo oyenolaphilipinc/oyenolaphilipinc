@@ -1,6 +1,6 @@
 
 <h2>Hi Fams 👋❤️, I'm Philip A Skilled Programmer</h2>
-<p>I am a Software Developer, Entrepreneur and Mentor. I am also open to building epic shit with code. let's connect together to change the world.</p>
+<p>I am a Software Developer, Entrepreneur and epic Mentor. I am also open to building epic shit with code. let's connect together to change the world.</p>
 
 
 
