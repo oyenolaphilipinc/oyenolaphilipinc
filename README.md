@@ -12,7 +12,7 @@
   <li>🔭 I’m learning <strong>AI and Blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and Computer Science in general</strong>.</li>
 <li>🎉 Fun Fact : I share tech content on Twitter & Linkedin and I love tech more. stay tuned for more on tech shit</li>
-  <li>👨‍💻 I am learning Blockchain from Alchemy University and I am big phase of Blockchain. Love Netflix at my free time.</li>
+  <li>👨‍💻 I am learning Blockchain from Alchemy University and I am in a big phase of Blockchain. Love Netflix at my free time.</li>
 </ul>
 
 <h2>Connect</h3>
