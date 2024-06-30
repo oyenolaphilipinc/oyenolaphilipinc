@@ -1,6 +1,6 @@
 
 <h2>Hi There 👋❤️, I'm Philip(CoderBluck) A Skilled Programmer</h2>
-<p>I am a Software Dev, Entrepreneur and smart Mentor. I am also open to building epic shit with code. let's connect together to impact our own quota to the world.</p>
+<p>I am a Software Developer, Entrepreneur and smart Mentor. I am also open to building epic shit with code. let's connect together to impact our own quota to the world.</p>
 
 
 
