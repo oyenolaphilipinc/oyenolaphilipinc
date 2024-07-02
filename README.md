@@ -8,7 +8,7 @@
 
 <ul>
   <li>✨ Building Scalable Products with Code and also building my Entrepreneurship and Mentorship skills. </li>
-  <li>👨‍💻 I am familiar with <strong>Javascript, AI, ReactJS & NextJS & currently open sourcing</strong>.</li>
+  <li>👨‍💻 I am familiar with <strong>Javascript, Artificial Intelligence, ReactJS & NextJS & currently open sourcing</strong>.</li>
   <li>🔭 I’m learning <strong>AI and Blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and Computer Science in general</strong>.</li>
 <li>🎉 Fun Fact : I share tech content on Twitter & Linkedin and I love tech more. stay tuned for more on tech shit</li>
